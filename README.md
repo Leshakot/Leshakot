@@ -6,10 +6,10 @@
 
 <h3 align="center">Connect with me \ Связаться со мной:</h3>
 <p align="center">
-<a href="https://t.me/leshakot" target="blank"><img src='https://img.shields.io/badge/-Telegram-69b5cc?style=for-the-badge&logo=Telegram'></a>
-<a href="mailto:lleshakot@gmail.com" target="blank"><img src='https://img.shields.io/badge/-mail-69b5cc?style=for-the-badge&logo=Gmail'></a>  
-<a href="https://kaggle.com/leshakot" target="blank"><img src='https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white'></a>
-<a href="https://www.leetcode.com/leshakot" target="blank"><img src='https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black'></a>
+<a href="https://kaggle.com/leshakot" target="blank"><img src='https://img.shields.io/badge/Kaggle-69b5cc?style=for-the-badge&logo=kaggle&logoColor=white'></a>
+<a href="https://www.leetcode.com/leshakot" target="blank"><img src='https://img.shields.io/badge/LeetCode-69b5cc?style=for-the-badge&logo=LeetCode&logoColor=white'></a>
+<a href="mailto:lleshakot@gmail.com" target="blank"><img src='https://img.shields.io/badge/-mail-69b5cc?style=for-the-badge&logo=Gmail'></a>
+<a href="https://t.me/leshakot" target="blank"><img src='https://img.shields.io/badge/-Telegram-69b5cc?style=for-the-badge&logo=Telegram'></a>  
 </p>
 
 ---
