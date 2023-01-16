@@ -4,15 +4,16 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Connect with me \ Связаться со мной:</h3>
 <p align="center">
-<a href="https://kaggle.com/leshakot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="lesha kot" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/leshakot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leshakot" height="30" width="40" /></a>
+<a href="https://kaggle.com/leshakot" target="blank"><img src='https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white'></a>
+<a href="https://www.leetcode.com/leshakot" target="blank"><img src='https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black'></a>
+<a href="mailto:oxvkarpova@gmail.com" target="blank"><img src='https://img.shields.io/badge/-mail-69b5cc?style=for-the-badge&logo=Gmail'></a>
 </p>
 
 ---
 
-### :woman_technologist: About Me :
+### About Me \ Обо мне :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
