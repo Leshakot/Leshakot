@@ -17,7 +17,7 @@
 ### About Me \ Обо мне :
 I am a Junior Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia / Я дата-аналитик из России.
 - :telescope: I’m working .
-- :seedling:In my free time, I  traveling.
+- :earth_asia: In my free time, I  traveling.
 - :swimming_man: In my free time, I swimming.
 - :boxing_glove: In my free time, I boxing.
 - :fish: In my free time, I fishing.
