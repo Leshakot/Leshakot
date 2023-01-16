@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Aleksey Kotenev</h1>
 <h3 align="center">Я учусь на Аналитика данных</h3>
 <div id="header" align="center">
