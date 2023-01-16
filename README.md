@@ -16,13 +16,11 @@
 
 ### About Me \ Обо мне :
 I am a Junior Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia / Я дата-аналитик из России.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-
-- :seedling: Exploring Technical Content Writing.
-
-- :swimming_man: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-- :boxing_glove: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-- :fish: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :telescope: I’m working .
+- :seedling:In my free time, I  traveling.
+- :swimming_man: In my free time, I swimming.
+- :boxing_glove: In my free time, I boxing.
+- :fish: In my free time, I fishing.
 
 - my life <a href="https://instagram.com/leshakot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leshakot" height="30" width="40" /></a>
 
