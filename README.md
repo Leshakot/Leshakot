@@ -17,6 +17,7 @@
 ### About Me \ Обо мне :
  Я дата-аналитик  из России. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  
  Более 15 лет проработал в сфере логистики и транспорта, занимался внутрироссийскими и международными перевозками. Мне приходилось много работать с данными, просчитывать и выбирать оптимальные маршруты доставки, рассчитывать рентабельность перевозки, анализировать прошлые перевозки и развивать новые направления. Сейчас я развиваюсь в сфере анализа данных и параллельно уделяю внимание машинному обучению.
+ 
 - :telescope: Люблю работать с данными.
 - :earth_asia: В свободное от работы время люблю путешествовать. 
 - :swimming_man: Занимаюсь плаванием.
@@ -24,6 +25,8 @@
 - :fish: Увлекаюсь рыбалкой.
 
 - my life <a href="https://instagram.com/leshakot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leshakot" height="30" width="40" /></a>
+---
+
 
 ---
 
