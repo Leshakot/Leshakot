@@ -44,6 +44,7 @@
 | [01. Музыка больших городов](https://github.com/Leshakot/data_analyst/blob/main/music_big_cities/music_big_cities.ipynb) |Цель исследования — проверьте три гипотезы.| Завершен |
 | [02. Исследование надежности заёмщиков](https://github.com/Leshakot/data_analyst/blob/main/analysis_of_bank_data/analysis_of_bank_data.ipynb) |Нужно разобраться, как разные характеристика клиента влияют на факт погашения кредита в срок. | Завершен |
 | [03. Исследование объявлений о продаже квартир](https://github.com/Leshakot/data_analyst/blob/main/real_estate_project/nedvigemost.ipynb) |Используя данные сервиса Яндекс.Недвижимость необходимо выявить основные параметры и факторы, влияющие на рыночную стоимость квартиры.| Завершен |
+| [04.  Определение выгодного тарифа для телеком компании](https://github.com/Leshakot/data_analyst/blob/main/tariff_telecom/tariff_telecom.ipynb) |На основе данных клиентов оператора сотовой связи проанализировать поведение клиентов и поиск оптимального тариф| Завершен |
 
 
 
