@@ -42,7 +42,7 @@
 | **Проект** | **Тип исследования** | **Статус** |
 | -------------------- | :--------------------- |:---------------------------:|
 | [01. Музыка больших городов](https://github.com/Leshakot/data_analyst/blob/main/music_big_cities/music_big_cities.ipynb) |Цель исследования — проверьте три гипотезы.| Завершен |
-| [02. Исследование надежности заёмщиков]([https://github.com/Leshakot/data_analyst/blob/main/music_big_cities/music_big_cities.ipynb](https://github.com/Leshakot/data_analyst/blob/main/analysis_of_bank_data/analysis_of_bank_data.ipynb)) |Нужно разобраться, как разные характеристика клиента влияют на факт погашения кредита в срок. | Завершен |
+| [02. Исследование надежности заёмщиков](https://github.com/Leshakot/data_analyst/blob/main/analysis_of_bank_data/analysis_of_bank_data.ipynb) |Нужно разобраться, как разные характеристика клиента влияют на факт погашения кредита в срок. | Завершен |
 
 
 
