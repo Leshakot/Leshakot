@@ -32,13 +32,46 @@
 
 ---
 
-<h3 align="center"> Проекты Data Analyst </p align="center">
+<h3 align="center"> Проекты Data Analyst </h3>
+
 
 | **Проект** | **Тип исследования** | **Статус** |
 | -------------------- | :--------------------- |:---------------------------:|
-| [01. Музыка больших городов](https://github.com/Leshakot/data_analyst/blob/main/music_big_cities/music_big_cities.ipynb) | Исследовательский анализ данных Цель исследования — проверьте три гипотезы:. | Завершен|
+| [01. Музыка больших городов](https://github.com/Leshakot/data_analyst/blob/main/music_big_cities/music_big_cities.ipynb) |Цель исследования — проверьте три гипотезы.| Завершен |
+| [02. Музыка больших городов](https://github.com/Leshakot/data_analyst/blob/main/music_big_cities/music_big_cities.ipynb) |В понедельник утром в Москве преобладают одни жанры, а в Петербурге — другие. Так же и вечером пятницы преобладают разные жанры — в зависимости от города. | Завершен |
 
 
 
 
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
