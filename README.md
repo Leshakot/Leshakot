@@ -27,7 +27,7 @@
 - my life <a href="https://instagram.com/leshakot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leshakot" height="30" width="40" /></a>
 ---
 
-<p align="center"> <a href="https://github.com/Leshakot/certificates">Сертификаты о прохождении курсов</a></p>
+<h3 align="center"> <a href="https://github.com/Leshakot/certificates">Сертификаты о прохождении курсов</a></h3>
 
 ---
 
