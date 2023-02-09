@@ -46,6 +46,7 @@
 | [03. Исследование объявлений о продаже квартир](https://github.com/Leshakot/data_analyst/blob/main/real_estate_project/nedvigemost.ipynb) |Используя данные сервиса Яндекс.Недвижимость необходимо выявить основные параметры и факторы, влияющие на рыночную стоимость квартиры.| Завершен |
 | [04.  Определение выгодного тарифа для телеком компании](https://github.com/Leshakot/data_analyst/blob/main/tariff_telecom/tariff_telecom.ipynb) |На основе данных клиентов оператора сотовой связи проанализировать поведение клиентов и поиск оптимального тариф| Завершен |
 | [05.  Изучение закономерностей, определяющих успешность продаж](https://github.com/Leshakot/data_analyst/blob/main/project_games/project_games.ipynb) |Выявлены параметры, определяющие успешность компьютерных игры. На основании этого подготовлен отчет для планирования рекламных кампаний| Завершен |
+| [06.  Анализ бизнес-показателей](https://github.com/Leshakot/data_analyst/blob/main/business_indicators/Analysis_business_indicators.ipynb) |Рассчитаны различные метрики, использован когортный анализ: LTV, CAC, Retention rate, DAU, WAU, MAU и т.д.| Завершен |
 
 <br>
 
