@@ -59,7 +59,7 @@
 | [01. SQL в COLAB](https://github.com/Leshakot/SQL/blob/main/Sql_in_colab/_sql_YP_tetst_ipynb_.ipynb) |Подключение к базе данных, пример запросов, извлечение результатов, визуализация данных| Завершен |
 | [02. SQL начало <img width=215/>](https://github.com/Leshakot/SQL/blob/main/start_sql/start_sql.sql) |Срезы данных в SQL, агрегирующие функции, подзапросы и временные таблицы | Завершен |
 | [03. Продвинутый SQL ](https://github.com/Leshakot/SQL/blob/main/advanced_sql/advanced_sql.sql) |Оконные функции, расчет бизнес показателей, кагорный анализ| Завершен |
-| [04. SQL on leetcode](https://github.com/Leshakot/SQL/blob/main/leetcode/leetcode.sql) |Пример решения задач на leetcode| в процессе |
+| [04. SQL on leetcode](https://github.com/Leshakot/SQL/blob/main/leetcode/leetcode.sql) |Пример решения задач на leetcode|В процессе |
 
 
 <br>
