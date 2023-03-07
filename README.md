@@ -63,7 +63,7 @@
 | [04. SQL on Leetcode](https://github.com/Leshakot/SQL/blob/main/leetcode/leetcode.sql) |Пример решения задач на leetcode|[В работе](https://leetcode.com/leshakot/) |
 | [05. SQL-EX в COLAB](https://github.com/Leshakot/SQL/blob/main/sql_ex/sql_ex_colab_ipynb.ipynb) |Примеры решения задач с сайта sql-ex|[В работе](https://sql-ex.ru/)|
 
-
+<br>
 <br>
 <br>
 <br>
