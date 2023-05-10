@@ -63,10 +63,11 @@
 | **Проект** | **Тип исследования** | **Статус** |
 | ---------- | :------------------- |:----------:|
 | [01. SQL в COLAB](https://github.com/Leshakot/SQL/blob/main/Sql_in_colab/_sql_YP_tetst_ipynb_.ipynb) |Подключение к базе данных, пример запросов, извлечение результатов, визуализация данных| Завершен |
-| [02. SQL начало <img width=215/>](https://github.com/Leshakot/SQL/blob/main/start_sql/start_sql.sql) |Срезы данных в SQL, агрегирующие функции, подзапросы и временные таблицы | Завершен |
-| [03. Продвинутый SQL ](https://github.com/Leshakot/SQL/blob/main/advanced_sql/advanced_sql.sql) |Оконные функции, расчет бизнес показателей, кагорный анализ| Завершен |
-| [04. SQL on Leetcode](https://github.com/Leshakot/SQL/blob/main/leetcode/leetcode.sql) |Пример решения задач на leetcode|[В работе](https://leetcode.com/leshakot/) |
-| [05. SQL-EX в COLAB](https://github.com/Leshakot/SQL/blob/main/sql_ex/sql_ex_colab_ipynb.ipynb) |Примеры решения задач с сайта sql-ex|[В работе](https://sql-ex.ru/)|
+| [02. SQL KARPOV.COURSES <img width=215/>](https://github.com/Leshakot/SQL/blob/main/SQL_karpov/SQL_karpov.sql) |Пример решения задач в симуляторе KARPOV.COURSES, курс проешл на 100%  | [Завершен](https://lab.karpov.courses/live_certificate/b675122e-1822-40be-9795-4da20519d4f0/) |
+| [03. SQL начало <img width=215/>](https://github.com/Leshakot/SQL/blob/main/start_sql/start_sql.sql) |Срезы данных в SQL, агрегирующие функции, подзапросы и временные таблицы | Завершен |
+| [04. Продвинутый SQL ](https://github.com/Leshakot/SQL/blob/main/advanced_sql/advanced_sql.sql) |Оконные функции, расчет бизнес показателей, кагорный анализ| Завершен |
+| [05. SQL on Leetcode](https://github.com/Leshakot/SQL/blob/main/leetcode/leetcode.sql) |Пример решения задач на leetcode|[В работе](https://leetcode.com/leshakot/) |
+| [06. SQL-EX в COLAB](https://github.com/Leshakot/SQL/blob/main/sql_ex/sql_ex_colab_ipynb.ipynb) |Примеры решения задач с сайта sql-ex|[В работе](https://sql-ex.ru/)|
 
 
 
