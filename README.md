@@ -69,8 +69,14 @@
 | [04. Продвинутый SQL ](https://github.com/Leshakot/SQL/blob/main/advanced_sql/advanced_sql.sql) |Оконные функции, расчет бизнес показателей, кагорный анализ| Завершен |
 | [05. SQL on Leetcode](https://github.com/Leshakot/SQL/blob/main/leetcode/leetcode.sql) |Пример решения задач на leetcode|[В работе](https://leetcode.com/leshakot/) |
 | [06. SQL-EX в COLAB](https://github.com/Leshakot/SQL/blob/main/sql_ex/sql_ex_colab_ipynb.ipynb) |Примеры решения задач с сайта sql-ex|[В работе](https://sql-ex.ru/)|
+<br>
 
+---
+<h3 align="center"> Проекты Data Science. Классический ML </h3>
 
+| **Проект** | **Тип исследования** | **Статус** |
+| ---------- | :------------------- |:----------:|
+| [01. Предсказания цены автомобиля](https://github.com/Leshakot/ML_Data_Science/blob/main/car_prices/cars_template_ipynb_.ipynb) |Предсказать стоимость поддержанного автомобиля. Необходимо cоздать приложение в [Streamlit](https://carprices.streamlit.app/). | Завершен |
 
 <br>
 <br>
