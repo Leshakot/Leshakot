@@ -77,7 +77,7 @@
 | **Проект** | **Тип исследования** | **Статус** |
 | ---------- | :------------------- |:----------:|
 | [01. Предсказания цены автомобиля](https://github.com/Leshakot/ML_Data_Science/blob/main/car_prices/cars_template_ipynb_.ipynb) |Предсказать стоимость поддержанного автомобиля. Необходимо cоздать приложение в [Streamlit](https://carprices.streamlit.app/). | Завершен |
-
+| [02. Прогнозирование оттока клиентов](https://github.com/Leshakot/ML_Data_Science/blob/main/ds_telecom/telecom.ipynb) |Необходимо спрогонозировать, уйдет клиент в ближайшее время или нет. | Завершен |
 <br>
 <br>
 <br>
