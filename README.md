@@ -79,6 +79,16 @@
 | [01. Предсказания цены автомобиля](https://github.com/Leshakot/ML_Data_Science/blob/main/car_prices/cars_template_ipynb_.ipynb) |Предсказать стоимость поддержанного автомобиля. Необходимо cоздать приложение в [Streamlit](https://carprices.streamlit.app/). | Завершен |
 | [02. Прогнозирование оттока клиентов](https://github.com/Leshakot/ML_Data_Science/blob/main/ds_telecom/telecom.ipynb) |Необходимо спрогонозировать, уйдет клиент в ближайшее время или нет. | Завершен |
 <br>
+
+---
+<h3 align="center"> Проекты Data Science. Deep learning  </h3>
+
+| **Проект** | **Тип исследования** | **Статус** |
+| ---------- | :------------------- |:----------:|
+| [01. Simpsons классификация.](https://github.com/Leshakot/Deep_learning/blob/main/Simpsons/simpsons.ipynb) |Классификация персонажей проживающих в Спрингфилде. Компьютерное зрение. | Завершен |
+
+
+<br>
 <br>
 <br>
 <br>
