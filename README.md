@@ -63,7 +63,7 @@
 
 | **Проект** | **Тип исследования** | **Статус** |
 | ---------- | :------------------- |:----------:|
-| [01. SQL KARPOV.COURSES](https://github.com/Leshakot/SQL/blob/main/SQL_karpov/SQL_karpov.sql) |Пример решения задач в симуляторе KARPOV.COURSES, курс проешл на 100%  | [Завершен](https://lab.karpov.courses/live_certificate/b675122e-1822-40be-9795-4da20519d4f0/) |
+| [01. SQL KARPOV.COURSES](https://github.com/Leshakot/SQL/blob/main/SQL_karpov/SQL_karpov.sql) |Пример решения задач в симуляторе KARPOV.COURSES | [Завершен](https://lab.karpov.courses/live_certificate/b675122e-1822-40be-9795-4da20519d4f0/) |
 | [02. SQL начало ](https://github.com/Leshakot/SQL/blob/main/start_sql/start_sql.sql) |Срезы данных в SQL, агрегирующие функции, подзапросы и временные таблицы | Завершен |
 | [03. Продвинутый SQL ](https://github.com/Leshakot/SQL/blob/main/advanced_sql/advanced_sql.sql) |Оконные функции, расчет бизнес показателей, кагорный анализ| Завершен |
 | [04. SQL-EX в COLAB](https://github.com/Leshakot/SQL/blob/main/sql_ex/sql_ex_colab_ipynb.ipynb) |Примеры решения задач с сайта sql-ex|[В работе](https://sql-ex.ru/)|
