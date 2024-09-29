@@ -15,7 +15,7 @@
 ---
 
 ### About Me \ Обо мне :
- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  
+ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">           <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">             <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  
 Более 15 лет проработал в сфере логистики и транспорта, занимался внутрироссийскими и международными перевозками. В работе я постоянно взаимодействовал с данными, используя их для определения оптимальных маршрутов доставки, оценки рентабельности перевозок, анализа предыдущих результатов и разработки новых стратегий развития.  
 В настоящее время я активно развиваю свои навыки в области анализа данных и инженерии данных, а также уделяю внимание машинному обучению и его применению в реальных проектах.
  
